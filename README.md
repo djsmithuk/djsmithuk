@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
   
 
@@ -34,4 +34,5 @@
 
 <br/>  
 
+## Listening Too 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=e_dsmith&cover_image=true&theme=natemoo-re)](https://spotify-github-profile.vercel.app/api/view?uid=e_dsmith&redirect=true)
