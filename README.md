@@ -30,8 +30,8 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=navaneethkm004&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=djsmithuk&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=e_dsmith&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=e_dsmith&cover_image=true&theme=natemoo-re)]]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=e_dsmith&cover_image=true&theme=natemoo-re)](https://spotify-github-profile.vercel.app/api/view?uid=e_dsmith&redirect=true)
