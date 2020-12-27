@@ -30,4 +30,6 @@
 <br/>  
 
 ## Listening Too 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=e_dsmith&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=e_dsmith&redirect=true)
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=e_dsmith&cover_image=true&theme=default" align="center" /></div> 
+
