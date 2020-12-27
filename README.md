@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
-</div>  
-  
-
 ### <div align="center">I'm Daniel, a 'free-time' dev when I can kinda guy, here you can see some projects im working on.</div>  
   
 
@@ -35,4 +30,4 @@
 <br/>  
 
 ## Listening Too 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=e_dsmith&cover_image=true&theme=natemoo-re)](https://spotify-github-profile.vercel.app/api/view?uid=e_dsmith&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=e_dsmith&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=e_dsmith&redirect=true)
