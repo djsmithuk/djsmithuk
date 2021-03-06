@@ -1,7 +1,8 @@
-### <div align="center">Hi I'm Daniel - I don't code as much as i used to, my main priority is my hosting company <a href="https://your-game.host">YourGameHost</a>.</div>  
+### <div align="center">Hi I'm Daniel - I don't code as much as i used to, my main priority is now my hosting company <a href="https://your-game.host">YourGameHost</a>.</div>  
   
+#Some Info
 
-- 🔭 I’m currently working on Yet.Another.Music.Bot (YAMB)
+- 🔭 When I get the chance I'm working on my music bot - Yet.Another.Music.Bot (YAMB)
 
 - ⚡ I've been light coding now for about 10 years
 
