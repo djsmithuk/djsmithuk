@@ -1,4 +1,4 @@
-### <div align="center">I'm Daniel, a 'free-time' dev when I can kinda guy, here you can see some projects im working on.</div>  
+### <div align="center">Hi I'm Daniel - I don't code as much as i used to, my main priority is my hosting company <a href="https://your-game.host">YourGameHost</a>.</div>  
   
 
 - 🔭 I’m currently working on Yet.Another.Music.Bot (YAMB)
@@ -28,8 +28,4 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=djsmithuk&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
-## Listening Too 
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=e_dsmith&cover_image=true&theme=default" align="center" /></div> 
 
