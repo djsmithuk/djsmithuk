@@ -1,4 +1,4 @@
-### <div align="center">Hi I'm Daniel - I don't code as much as i used to, my main priority is now my hosting company <a href="https://your-game.host">YourGameHost</a>.</div>  
+### <div align="center">Hi I'm Daniel - I don't code as much as i used to.</div>  
   
 #Some Info
 
